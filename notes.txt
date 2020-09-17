@@ -1,0 +1,4 @@
+changes without add -> git co 
+changes after add -> git reset
+changes after commit -> git reset --hard origin/[branch-name]
+delete files or directories -> git clean -f-d --dry-run
